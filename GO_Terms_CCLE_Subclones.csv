@@ -1,0 +1,17 @@
+,term_ID,description,frequency_%,plot_X,plot_Y,plot_size,log10_p_value,uniqueness,dispensability,frequency
+2,GO:0045333,cellular respiration,1.044,3.301,-5.836,2.26,-5.1838,0.84,0,1.044
+11,GO:0006091,generation of precursor metabolites and energy,2.129,-0.576,-2.865,2.568,-3.7628,0.964,0.05,2.129
+1,GO:0042391,regulation of membrane potential,2.204,4.422,5.169,2.583,-3.1843,0.899,0,2.204
+15,GO:0042554,superoxide anion generation,0.138,-1.97,2.978,1.398,-2.4576,0.877,0,0.138
+10,GO:0072524,pyridine-containing compound metabolic process,0.831,3.798,-3.615,2.161,-2.1322,0.932,0.045,0.831
+12,GO:0006732,coenzyme metabolic process,1.87,-0.288,-5.407,2.512,-2.1005,0.914,0.054,1.87
+4,GO:0043492,"ATPase activity, coupled to movement of substances",0.745,-3.101,-5.937,2.114,-4.7905,0.758,0,0.745
+6,GO:0050662,coenzyme binding,1.052,5.447,5.432,2.262,-2.6095,0.948,0.005,1.052
+3,GO:0050664,"oxidoreductase activity, NAD(P)H, oxygen as acceptor",0.092,-2.896,4.892,1.23,-1.7992,0.573,0,0.092
+16,GO:0016616,"oxidoreductase activity, NAD or NADP as acceptor",0.676,-2.835,-3.238,2.072,-1.4056,0.905,0.14,0.676
+111,GO:0005216,ion channel activity,2.485,-3.021,-5.004,2.634,-1.3744,0.235,0,2.485
+31,GO:0043235,receptor complex,1.752,5.711,-5.202,2.512,-5.1838,0.877,0,1.752
+7,GO:0030133,transport vesicle,1.996,-5.386,-0.77,2.568,-2.3979,0.85,0.003,1.996
+8,GO:0005759,mitochondrial matrix,2.353,-4.1,4.589,2.639,-2.1556,0.921,0.092,2.353
+9,GO:0005874,microtubule,2.131,-4.472,-4.951,2.597,-2.1005,0.926,0.105,2.131
+61,GO:0031252,cell leading edge,1.925,-5.52,2.866,2.553,-2.0763,0.951,0.003,1.925
